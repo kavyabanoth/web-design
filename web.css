@@ -1,0 +1,36 @@
+#para1{ text-align: center; color: crimson; background-color: aqua; text-transform: capitalize;font-size: 200%;}
+h1{color:greenyellow; text-align: center; text-transform: uppercase; font-family: Verdana; background-color: deepskyblue;}
+h3{background-color: chartreuse;}
+#ul{list-style-type: circle;text-transform: capitalize; 
+    float: right;font-size: 150%; }
+    #ul1{list-style-type: circle ; text-transform:capitalize ;
+        float: left; font-size: 150%;}
+        #ul{color: red;}
+        #ul1{color: red;}
+        .center{color: deepskyblue; text-align: center;}
+        body{
+            background-image:url("https://img.freepik.com/premium-vector/modern-abstract-blue-white-technology-background-design-vector-illustration_29865-5835.jpg");
+            background-repeat : no-repeat;
+            background-size:cover;
+            
+             
+            }
+            #para2 {
+                border: 1px solid black;
+                height: 220px;
+                width: 400;
+                background:url("https://images.prismic.io/intuzwebsite/71824165-f8a3-4937-ba27-7fe08da8af62_An+All-Inclusive+Guide+On+The+Top+IoT+Sensors+In+The+Market%402x.png?auto=compress,format") ;
+                background-repeat: no-repeat;
+                background-size: cover;
+              }
+              
+              #para3 {
+                border: 1px solid black;
+                height: 250px;
+                width: 400px;
+                background: url("https://www.researchgate.net/publication/337259363/figure/fig2/AS:910364665475074@1594059258479/Different-types-of-IoT-sensors-based-on-application-areas.png");
+                background-repeat: no-repeat;
+                background-size: cover;
+                float: right;
+                background-position: right top;
+              }
